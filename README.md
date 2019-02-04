@@ -1,5 +1,7 @@
 # Alvaro Del Pozo Cuenca
 
+Leve: Medium
+
 This is the propousal challenge:
 
 ## BrethrenCourt
