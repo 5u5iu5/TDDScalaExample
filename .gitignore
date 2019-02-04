@@ -1,0 +1,9 @@
+### Example user template
+
+target
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+out
